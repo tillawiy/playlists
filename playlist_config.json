@@ -50,9 +50,16 @@
     "playlistIds": [
       "PLuEVHAaiNpsfTKCrkaqZ2hxwZDhlNyOz_"
     ]
+  },
+  "prayer_times": {
+    "sectionName": "مواقيت الصلاة",
+    "playlistIds": [
+      "PLxxx",
+      "PLyyy"
+    ]
   }
-
 }
+
 
 
 
